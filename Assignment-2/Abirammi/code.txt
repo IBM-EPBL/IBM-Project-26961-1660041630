@@ -19,3 +19,4 @@ elif(temperatures >= 30 and temperatures <= 54):
 else:
   print("Please Find a Way to Exit House is Burning ")
   print("Humidity Level 0%")
+  
