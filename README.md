@@ -8,7 +8,7 @@
 
                                                     ABIRAMMI S  (917719IT002)
 
-                                                    DEEPTHIKA S  (917719IT022)
+                                                    DEEPTHIKA S  (917719IT020)
 
                                                     PAVITHRA M   (917719IT068)
 
@@ -17,8 +17,8 @@
 
 
 
+![image](https://user-images.githubusercontent.com/88699026/202864109-095b39a4-fd80-40b8-a585-982c17de421f.png)
 
-![image](https://user-images.githubusercontent.com/88699026/202856210-58b0b1a6-a202-4b95-a1dd-9c2d4db79e95.png)
 
 
 
