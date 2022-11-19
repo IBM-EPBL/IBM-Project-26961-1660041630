@@ -1,21 +1,18 @@
                                       PERSONAL ASSISTANCE FOR SENIORS WHO ARE SELF-RELIANT
 
 
-
                                                    Team ID: PNT2022TMID21568
 
 
+                                                       Team Members
 
+                                                    ABIRAMMI S	(19IT002)
 
-                                                        Team Members
+                                                    DEEPTHIKA S  (19IT022)
 
-                                                     ABIRAMMI S	(19IT002)
+                                                    PAVITHRA M   (19IT068)
 
-                                                     DEEPTHIKA S  (19IT022)
-
-                                                     PAVITHRA M   (19IT068)
-
-                                                     SUBALAKSHMI C (19IT105)
+                                                    SUBALAKSHMI C (19IT105)
 
 
 
